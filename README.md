@@ -2,6 +2,7 @@
 
 A sophisticated multi-agent AI system that analyzes financial documents (bank statements, investment factsheets) and provides intelligent insights through natural language conversations. Built with Python FastAPI backend and Next.js 15 frontend.
 
+<img width="975" alt="Screenshot 2025-06-22 at 11 35 19 PM" src="https://github.com/user-attachments/assets/3e2237b6-4655-4611-98c6-fdfdc6667e8e" />
 
 ## 🎯 What This Project Does
 
